@@ -19,7 +19,7 @@
 
 - 🔭 Currently learning **Data Analytics & Data Science**
 - 🌱 Exploring **Python, SQL, Power BI, Tableau, Machine Learning & Statistics**
-- 🛠️ Hands-on with **Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn & Microsoft Excel**
+- 🛠️ Hands-on with **Pandas, NumPy, Matplotlib, Seaborn,& Microsoft Excel**
 - 📊 Building interactive dashboards, analyzing datasets, and generating data-driven insights
 - 📋 Working on real-world **Data Analytics and Machine Learning projects**
 - 🏅 Completed **NPTEL Internet of Things Certification**
@@ -50,7 +50,6 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
 </p>
 
 ---
