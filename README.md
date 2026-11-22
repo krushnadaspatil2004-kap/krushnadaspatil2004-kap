@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B%2C+Krushnadas+here.;Data+Analytics+%26+Data+Scienctist;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B%2C+Krushnadas+here.;Data+Analyst+%26+Data+Scienctist;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning" alt="Typing SVG" />
 </div>
 
 <h3 align="center">📊 Aspiring Data Analyst & Data Scientist from India 🇮🇳</h3>
